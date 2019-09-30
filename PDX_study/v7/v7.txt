@@ -1,0 +1,9 @@
+File name: PDMv7.1_Reduced-Drugs-5-6
+
+GENERAL:
+Prediction scores are the fraction of patient derived xenographs responding
+grouped by patient derived models. In this file, the set of drugs has
+been reduced to 6 drugs. These 6 drugs appear in the "PDX Studies 1" file.
+
+These are derived from a set of predictions that include 1128 patient derived
+xenographs resulting in X patient derived models. 
